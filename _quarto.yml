@@ -1,13 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "quarto_portfolio_template"
+  title: "My Data Analysis Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "About Me"
+        href: ./aboutme.html
+      - text: "Projects"
+        menu:
+          - text: "R Coding Exercise"
+            href: ./coding_exercise.html
+          - text: "Visualization Exercise"
+            href: ./visualization_exercise.html
+          - text: "Tidy Tuesday Exercise"
+            href: ./tidytuesday_exercise.html
+    right:
+      - icon: fab fa-github 
+        href: URL-TO-THIS-REPOSITORY-HERE        
 
 format:
   html:
