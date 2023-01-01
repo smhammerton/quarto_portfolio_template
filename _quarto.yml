@@ -17,13 +17,14 @@ website:
           - text: "Tidy Tuesday Exercise"
             href: ./tidytuesday_exercise.html
     right:
-      - icon: fab fa-github 
+      - icon: github 
         href: URL-TO-THIS-REPOSITORY-HERE        
 
 format:
   html:
     theme: cosmo
+    highlight: zenburn
     css: styles.css
-    toc: true
+    toc: FALSE
 
 
