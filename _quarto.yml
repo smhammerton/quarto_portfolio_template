@@ -1,4 +1,4 @@
-project:
+project: 
   type: website
   output-dir: docs
 
@@ -26,5 +26,4 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
 
