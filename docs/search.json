@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My website and data analysis portfolio",
+    "objectID": "tidytuesday_exercise.html",
+    "href": "tidytuesday_exercise.html",
+    "title": "Tidy Tuesday Exercise",
     "section": "",
-    "text": "Welcome to my website and data analysis portfolio.\n\nPlease use the Menu Bar above to look around.\nHave fun!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Placeholder file for the future Tidy Tuesday exercise."
   },
   {
     "objectID": "aboutme.html",
@@ -21,6 +14,13 @@
     "text": "Add some text and a figure describing myself."
   },
   {
+    "objectID": "visualization_exercise.html",
+    "href": "visualization_exercise.html",
+    "title": "Visualization Exercise",
+    "section": "",
+    "text": "Placeholder file for the future visualization exercise."
+  },
+  {
     "objectID": "coding_exercise.html",
     "href": "coding_exercise.html",
     "title": "R Coding Exercise",
@@ -28,17 +28,10 @@
     "text": "Placeholder file for the future R coding exercise."
   },
   {
-    "objectID": "tidytuesday_exercise.html",
-    "href": "tidytuesday_exercise.html",
-    "title": "Tidy Tuesday Exercise",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My website and data analysis portfolio",
     "section": "",
-    "text": "Placeholder file for the future Tidy Tuesday exercise."
-  },
-  {
-    "objectID": "visualization_exercise.html",
-    "href": "visualization_exercise.html",
-    "title": "Visualization Exercise",
-    "section": "",
-    "text": "Placeholder file for the future visualization exercise."
+    "text": "Welcome to my website and data analysis portfolio.\n\nPlease use the Menu Bar above to look around.\nHave fun!"
   }
 ]
